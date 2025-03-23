@@ -1,31 +1,35 @@
-Gerador de vídeos
-https://synthesia.io
-https://pictory.ai/
-https://humanpal.io
-https://gliacloud.com
-https://veed.io
-https://invideo.io
-https://kaiber.ai
-https://gliacloud.com/en/
-https://colossyan.com
-https://heygen.com
-https://kapwing.com
-https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis
-https://shuffll.com/
-https://flair.ai/
-https://kreadoai.com
-https://glossai.co
-https://twelvelabs.io
-https://vverse.ai/
-https://pictory.ai
-https://magisto.com/didit
-https://animoto.com
-https://flexclip.com
-Gera vídeos também por audio
-https://rawshorts.com
+## Gerador de vídeos
 
-Gerador de vídeos pra rodar local
-https://github.com/FABLE-3DXRD/xrd_simulator
+- https://synthesia.io
+- https://pictory.ai/
+- https://humanpal.i
+- https://gliacloud.com
+- https://veed.io
+- https://invideo.io
+- https://kaiber.ai
+- https://gliacloud.com/en/
+- https://colossyan.com
+- https://heygen.com
+- https://kapwing.com
+- https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis
+- https://shuffll.com/
+- https://flair.ai/
+- https://kreadoai.com
+- https://glossai.co
+- https://twelvelabs.io
+- https://vverse.ai/
+- https://pictory.ai
+- https://magisto.com/didit
+- https://animoto.com
+- https://flexclip.com
+
+## Gera vídeos também por audio
+
+- https://rawshorts.com
+
+## Gerador de vídeos pra rodar local
+
+- https://github.com/FABLE-3DXRD/xrd_simulator
 
 Envia teu personagem pra ele animar
 https://huggingface.co/spaces/Tune-A-Video-library/Tune-A-Video-Training-UI 
